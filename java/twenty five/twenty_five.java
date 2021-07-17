@@ -5,8 +5,8 @@ public class twenty_five{
         try{    
             int a[]=new int[5];    
             a[5]=30/0;
-            String s=null;  
-            System.out.println(s.length()); 
+            //String s=null;  
+            //System.out.println(s.length()); 
             //a[7]=30;    
            }    
            catch(ArithmeticException e)  
